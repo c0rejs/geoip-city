@@ -4,41 +4,41 @@
 
 **Other changes:**
 
-- style: update .npmrc (● [880e96f](https://github.com/softvisio-node/geoip-city/commit/880e96f); 👬 zdm)
+- style: update .npmrc (● [880e96f](https://github.com/c0rejs/geoip-city/commit/880e96f); 👬 zdm)
 
-Compare with the previous release: [v1.0.51](https://github.com/softvisio-node/geoip-city/compare/v1.0.51...v1.0.52)
+Compare with the previous release: [v1.0.51](https://github.com/c0rejs/geoip-city/compare/v1.0.51...v1.0.52)
 
 ### v1.0.51 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [32e6bae](https://github.com/softvisio-node/geoip-city/commit/32e6bae); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [32e6bae](https://github.com/c0rejs/geoip-city/commit/32e6bae); 👬 zdm)
 
-Compare with the previous release: [v1.0.50](https://github.com/softvisio-node/geoip-city/compare/v1.0.50...v1.0.51)
+Compare with the previous release: [v1.0.50](https://github.com/c0rejs/geoip-city/compare/v1.0.50...v1.0.51)
 
 ### v1.0.50 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [c41e1ab](https://github.com/softvisio-node/geoip-city/commit/c41e1ab); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [c41e1ab](https://github.com/c0rejs/geoip-city/commit/c41e1ab); 👬 zdm)
 
-Compare with the previous release: [v1.0.49](https://github.com/softvisio-node/geoip-city/compare/v1.0.49...v1.0.50)
+Compare with the previous release: [v1.0.49](https://github.com/c0rejs/geoip-city/compare/v1.0.49...v1.0.50)
 
 ### v1.0.49 (2025-07-21)
 
 **Other changes:**
 
-- style: lint (● [f3d040c](https://github.com/softvisio-node/geoip-city/commit/f3d040c); 👬 zdm)
+- style: lint (● [f3d040c](https://github.com/c0rejs/geoip-city/commit/f3d040c); 👬 zdm)
 
-Compare with the previous release: [v1.0.48](https://github.com/softvisio-node/geoip-city/compare/v1.0.48...v1.0.49)
+Compare with the previous release: [v1.0.48](https://github.com/c0rejs/geoip-city/compare/v1.0.48...v1.0.49)
 
 ### v1.0.48 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [ad02ef6](https://github.com/softvisio-node/geoip-city/commit/ad02ef6); 👬 zdm)
+- docs: update (● [ad02ef6](https://github.com/c0rejs/geoip-city/commit/ad02ef6); 👬 zdm)
 
-Compare with the previous release: [v1.0.47](https://github.com/softvisio-node/geoip-city/compare/v1.0.47...v1.0.48)
+Compare with the previous release: [v1.0.47](https://github.com/c0rejs/geoip-city/compare/v1.0.47...v1.0.48)
 
 ### v1.0.47 (2025-06-07)
 
@@ -46,7 +46,7 @@ Compare with the previous release: [v1.0.47](https://github.com/softvisio-node/g
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v1.0.46](https://github.com/softvisio-node/geoip-city/compare/v1.0.46...v1.0.47)
+Compare with the previous release: [v1.0.46](https://github.com/c0rejs/geoip-city/compare/v1.0.46...v1.0.47)
 
 ### v1.0.46 (2025-06-01)
 
@@ -54,7 +54,7 @@ Compare with the previous release: [v1.0.46](https://github.com/softvisio-node/g
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v1.0.45](https://github.com/softvisio-node/geoip-city/compare/v1.0.45...v1.0.46)
+Compare with the previous release: [v1.0.45](https://github.com/c0rejs/geoip-city/compare/v1.0.45...v1.0.46)
 
 ### 1.0.45 (2025-03-26)
 
@@ -62,7 +62,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v1.0.44...v1.0.45`](https://github.com/softvisio-node/geoip-city/compare/v1.0.44...v1.0.45)
+Compare with the previous release: [`v1.0.44...v1.0.45`](https://github.com/c0rejs/geoip-city/compare/v1.0.44...v1.0.45)
 
 ### 1.0.44 (2025-03-04)
 
@@ -70,7 +70,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.0.43...v1.0.44`](https://github.com/softvisio-node/geoip-city/compare/v1.0.43...v1.0.44)
+Compare with the previous release: [`v1.0.43...v1.0.44`](https://github.com/c0rejs/geoip-city/compare/v1.0.43...v1.0.44)
 
 ### 1.0.43 (2025-03-04)
 
@@ -78,7 +78,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.0.42...v1.0.43`](https://github.com/softvisio-node/geoip-city/compare/v1.0.42...v1.0.43)
+Compare with the previous release: [`v1.0.42...v1.0.43`](https://github.com/c0rejs/geoip-city/compare/v1.0.42...v1.0.43)
 
 ### 1.0.42 (2025-02-27)
 
@@ -86,7 +86,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v1.0.41...v1.0.42`](https://github.com/softvisio-node/geoip-city/compare/v1.0.41...v1.0.42)
+Compare with the previous release: [`v1.0.41...v1.0.42`](https://github.com/c0rejs/geoip-city/compare/v1.0.41...v1.0.42)
 
 ### 1.0.41 (2025-02-26)
 
@@ -94,7 +94,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v1.0.40...v1.0.41`](https://github.com/softvisio-node/geoip-city/compare/v1.0.40...v1.0.41)
+Compare with the previous release: [`v1.0.40...v1.0.41`](https://github.com/c0rejs/geoip-city/compare/v1.0.40...v1.0.41)
 
 ### 1.0.40 (2025-02-19)
 
@@ -102,7 +102,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v1.0.39...v1.0.40`](https://github.com/softvisio-node/geoip-city/compare/v1.0.39...v1.0.40)
+Compare with the previous release: [`v1.0.39...v1.0.40`](https://github.com/c0rejs/geoip-city/compare/v1.0.39...v1.0.40)
 
 ### 1.0.39 (2025-01-08)
 
@@ -110,7 +110,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.0.38 ... v1.0.39](https://github.com/softvisio-node/geoip-city/compare/v1.0.38...v1.0.39)
+[Compare with the previous release: v1.0.38 ... v1.0.39](https://github.com/c0rejs/geoip-city/compare/v1.0.38...v1.0.39)
 
 ### 1.0.38 (2024-12-07)
 
@@ -118,7 +118,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v1.0.37 ... v1.0.38](https://github.com/softvisio-node/geoip-city/compare/v1.0.37...v1.0.38)
+[Compare with the previous release: v1.0.37 ... v1.0.38](https://github.com/c0rejs/geoip-city/compare/v1.0.37...v1.0.38)
 
 ### 1.0.37 (2024-12-04)
 
@@ -126,7 +126,7 @@ Other changes:
 
 - chore: update external resources path
 
-[Compare with the previous release: v1.0.36 ... v1.0.37](https://github.com/softvisio-node/geoip-city/compare/v1.0.36...v1.0.37)
+[Compare with the previous release: v1.0.36 ... v1.0.37](https://github.com/c0rejs/geoip-city/compare/v1.0.36...v1.0.37)
 
 ### 1.0.36 (2024-11-27)
 
@@ -134,7 +134,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.0.35 ... v1.0.36](https://github.com/softvisio-node/geoip-city/compare/v1.0.35...v1.0.36)
+[Compare with the previous release: v1.0.35 ... v1.0.36](https://github.com/c0rejs/geoip-city/compare/v1.0.35...v1.0.36)
 
 ### 1.0.35 (2024-11-27)
 
@@ -142,7 +142,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.0.34 ... v1.0.35](https://github.com/softvisio-node/geoip-city/compare/v1.0.34...v1.0.35)
+[Compare with the previous release: v1.0.34 ... v1.0.35](https://github.com/c0rejs/geoip-city/compare/v1.0.34...v1.0.35)
 
 ### 1.0.34 (2024-11-10)
 
@@ -150,7 +150,7 @@ Other changes:
 
 - chore: chmod files
 
-[Compare with the previous release: v1.0.33 ... v1.0.34](https://github.com/softvisio-node/geoip-city/compare/v1.0.33...v1.0.34)
+[Compare with the previous release: v1.0.33 ... v1.0.34](https://github.com/c0rejs/geoip-city/compare/v1.0.33...v1.0.34)
 
 ### 1.0.33 (2024-11-07)
 
@@ -158,7 +158,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.0.32 ... v1.0.33](https://github.com/softvisio-node/geoip-city/compare/v1.0.32...v1.0.33)
+[Compare with the previous release: v1.0.32 ... v1.0.33](https://github.com/c0rejs/geoip-city/compare/v1.0.32...v1.0.33)
 
 ### 1.0.32 (2024-10-29)
 
@@ -166,25 +166,25 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v1.0.31 ... v1.0.32](https://github.com/softvisio-node/geoip-city/compare/v1.0.31...v1.0.32)
+[Compare with the previous release: v1.0.31 ... v1.0.32](https://github.com/c0rejs/geoip-city/compare/v1.0.31...v1.0.32)
 
 ### 1.0.31 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/geoip-city/compare/v1.0.30...v1.0.31)
+[Full list of the changes](https://github.com/c0rejs/geoip-city/compare/v1.0.30...v1.0.31)
 
 ### 1.0.30 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/geoip-city/compare/v1.0.29...v1.0.30)
+[Full list of the changes](https://github.com/c0rejs/geoip-city/compare/v1.0.29...v1.0.30)
 
 ### 1.0.29 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/geoip-city/compare/v1.0.28...v1.0.29)
+[Full list of the changes](https://github.com/c0rejs/geoip-city/compare/v1.0.28...v1.0.29)
 
 ### 1.0.28 (2024-10-06)
 
