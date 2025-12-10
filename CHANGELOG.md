@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.53 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [b7efde8](https://github.com/c0rejs/geoip-city/commit/b7efde8), [89b2b41](https://github.com/c0rejs/geoip-city/commit/89b2b41), [4311416](https://github.com/c0rejs/geoip-city/commit/4311416), [551f979](https://github.com/c0rejs/geoip-city/commit/551f979); 👬 zdm)
+
+- chore(metadata): update package metadata (● [2e8b325](https://github.com/c0rejs/geoip-city/commit/2e8b325); 👬 zdm)
+
+Compare with the previous release: [v1.0.52](https://github.com/c0rejs/geoip-city/compare/v1.0.52...v1.0.53)
+
 ### v1.0.52 (2025-07-23)
 
 **Other changes:**
