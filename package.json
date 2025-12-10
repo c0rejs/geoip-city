@@ -6,14 +6,14 @@
         "softvisio",
         "geoip"
     ],
-    "homepage": "https://softvisio-node.github.io/geoip-city/",
+    "homepage": "https://c0rejs.github.io/geoip-city/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/geoip-city/issues",
+        "url": "https://github.com/c0rejs/geoip-city/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/geoip-city.git"
+        "url": "git+https://github.com/c0rejs/geoip-city.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
