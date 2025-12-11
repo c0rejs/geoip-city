@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.54 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [a1561fe](https://github.com/c0rejs/geoip-city/commit/a1561fe); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [81783e2](https://github.com/c0rejs/geoip-city/commit/81783e2); 👬 zdm)
+
+Compare with the previous release: [v1.0.53](https://github.com/c0rejs/geoip-city/compare/v1.0.53...v1.0.54)
+
 ### v1.0.53 (2025-12-10)
 
 **Other changes:**
