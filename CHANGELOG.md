@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.55 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [e989c28](https://github.com/c0rejs/geoip-city/commit/e989c28); 👬 zdm)
+
+Compare with the previous release: [v1.0.54](https://github.com/c0rejs/geoip-city/compare/v1.0.54...v1.0.55)
+
 ### v1.0.54 (2025-12-11)
 
 **Bug fixes:**
