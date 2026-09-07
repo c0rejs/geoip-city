@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.73 (2026-09-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename .install() to .update() (● [7177016](https://github.com/corejslib/geoip-city/commit/7177016); 👬 zdm)
+
+Compare with the previous release: [v1.0.72...v1.0.73](https://github.com/corejslib/geoip-city/compare/v1.0.72...v1.0.73)
+
 ### v1.0.72 (2026-08-28)
 
 **Bug fixes:**
